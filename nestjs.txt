@@ -1,0 +1,20 @@
+npm @nestjs/cli new 프로젝트명
+npx @nestjs/cli new 프로젝트명
+
+npx @nestjs/cli 설명서 띄우기
+
+test 폴더 삭제
+app.controller.spec.ts 삭제
+
+main에서 포트번호 변경 (리액트랑 겹침)
+
+시작 명령어 npm run start:dev
+
+nest(npx @nestjs/cli g mo chat  모듈생성
+$ npx @nestjs/cli g co chat 컨트롤러 생성
+
+npm i socket.io @nestjs/websockets @nestjs/platform-socket.io 웹소켓 추가
+
+main 들어가서 앱모듈 뒤에 { cors: true }
+
+npx @nestjs/cli g pr chat chat
